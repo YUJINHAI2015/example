@@ -1,10 +1,3 @@
-git add test.txt 放到暂存区
-git commit -m "" 提交到版本库
-git status 查看状态
-git diff test.txt 查看文件是否不同
-git log 查看日志
-git reset --hard HEAD^ 回退版本
-git reset --hard commit_ID 回退版本
-git checkout -- test.txt 撤销工作区的修改
-git reset HEAD file 撤销暂存区的修改
+git add git commit
+git status git diff git log
 
